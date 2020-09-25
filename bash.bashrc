@@ -8,9 +8,9 @@ clear
 echo -e "Created By @CERTIFIED_YOUTUBER" | lolcat
 echo "----------------------------" | lolcat
 echo "BY script kiddie " | lolcat
-echo "╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗╔═╗  | lolcat
-echo "║║║║╣ ║  ║  ║ ║║║║║╣   | lolcat
-echo "╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝  | lolcat
+echo "╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗╔═╗"  | lolcat
+echo "║║║║╣ ║  ║  ║ ║║║║║╣  " | lolcat
+echo "╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝ " | lolcat
 
                                                                
 echo ""
