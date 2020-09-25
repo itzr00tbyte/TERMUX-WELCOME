@@ -5,7 +5,7 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
                 /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 
         }
-
+echo "Welcome Back To Termux"
 fi
 
 PS1='\$ '
