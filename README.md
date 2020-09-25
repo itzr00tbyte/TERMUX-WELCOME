@@ -1,15 +1,22 @@
-# TERMUX-WELCOME PROJECT BY ![SK](https://www.youtube.com/c/scriptkiddietelugu) 
+# TERMUX-WELCOME PROJECT BY <a href="https://www.youtube.com/c/scriptkiddietelugu"><img src="https://img.shields.io/badge/By%20This-Channel-red.svg?logo=Youtube"></a>
 ### Beautify your Termux App With a warm welcome
 
 ## [+] Installation & Usage
 ```
 apt update
+
 apt install git -y
+
 pkg install mpv -y
-git clone https://github.com/AmshenShanu07/jarvis-welcome.git
+
+git clone https://github.com/r0Otbyte/TERMUX-WELCOME
+
 cd jarvis-welcome
+
 chmod +x *
+
 sh install.sh
+
 exit
 ```
 ### or use Single Command
@@ -22,11 +29,12 @@ cd jarvis-welcome
 
 bash rvt.sh
 ```
-# thanks to https://github.com/htr-tech 
- # For providing the code
+<p align="center">
+<img src="https://telegra.ph/file/b5c0c1aeb6c4a54b1f5f4.jpg" alt="Script Kiddie">
 
     
 ## [+] Find Me on :
-#### Telegram :https://t.me/AmshenShanu
-#### Plzz text your errors to this grp :https://t.me/joinchat/NM1A0FN8Bu-swiQNFRhdgw
+#### Telegram :https://t.me/certified_youtuber
+#### Join cahnnel and Show your love :https://t.me/scriptKiddiesvR
+##### Youtube channel :https://www.youtube.com/c/scriptkiddietelugu
 
