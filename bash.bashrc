@@ -7,15 +7,19 @@ mpv /$HOME/TERMUX-WELCOME/terminal.mp3
 clear
 echo -e "Created By @CERTIFIED_YOUTUBER" | lolcat
 echo "----------------------------" | lolcat
-echo "BY script kiddie " | lolcat
+echo "BY script kiddie Youtube channel " | lolcat
 echo "╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗╔═╗"  | lolcat
 echo "║║║║╣ ║  ║  ║ ║║║║║╣  " | lolcat
 echo "╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝ " | lolcat
 
                                                                
-echo ""
+echo "
+_____  ____  ___   _      _     _        
+ | |  | |_  | |_) | |\/| | | | \ \_/     
+ |_|  |_|__ |_| \ |_|  | \_\_/ /_/ \     
+" | lolcat
   
 date | lolcat
-echo "YOUTUBE CHANNEL  :https://www.youtube.com/c/scriptkiddietelugu" | lolcat
-echo "TELEGRAM GROUP   :https://t.me/scriptKiddiesvR          " | lolcat
-echo "crafter by       :T.ME/certified_youtuber" | lolcat
+echo "YOUTUBE CHANNEL  :www.youtube.com/c/scriptkiddietelugu" | lolcat
+echo "TELEGRAM GROUP   :t.me/scriptKiddiesvR          " | lolcat
+echo "crafter by       :@certified_youtuber" | lolcat
