@@ -7,18 +7,18 @@ mpv /$HOME/TERMUX-WELCOME/terminal.mp3
 clear
 echo -e "Created By @CERTIFIED_YOUTUBER" | lolcat
 echo "----------------------------" | lolcat
-echo "
+echo "BY script kiddie " | lolcat
      
-██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗    
-██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝    
-██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗      
-██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝      
-╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗    
- ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝    
-                                                                   " | lolcat
+echo "██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗    "| lolcat
+echo "██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝    " | lolcat
+echo "██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗      " | lolcat
+echo "██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝     " | lolcat
+echo "╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗  "  | lolcat
+echo " ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝ "   | lolcat
+                                                               
 echo ""
   
 date | lolcat
-echo "YOUTUBE CHANNEL      :https://www.youtube.com/c/scriptkiddietelugu" | lolcat
-echo "TELEGRAM GROUP       :https://t.me/scriptKiddiesvR          " | lolcat
-echo 'crafter by           :T.ME/certified_youtuber" | lolcat
+echo "YOUTUBE CHANNEL  :https://www.youtube.com/c/scriptkiddietelugu" | lolcat
+echo "TELEGRAM GROUP   :https://t.me/scriptKiddiesvR          " | lolcat
+echo "crafter by       :T.ME/certified_youtuber" | lolcat
