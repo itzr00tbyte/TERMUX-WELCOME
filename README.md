@@ -1,4 +1,4 @@
-# TERMUX-WELCOME PROJECT BY ![](https://www.youtube.com/c/scriptkiddietelugu) 
+# TERMUX-WELCOME PROJECT BY ![SK](https://www.youtube.com/c/scriptkiddietelugu) 
 ### Beautify your Termux App With a warm welcome
 
 ## [+] Installation & Usage
