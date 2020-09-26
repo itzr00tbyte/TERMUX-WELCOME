@@ -20,10 +20,13 @@ git clone https://github.com/R0OTBYTE/TERMUX-WELCOME
 cd TERMUX-WELCOME
 printf "\n\e[1;92mRestarting ...\n\e[0m"
 bash install.sh
+clear
 cd ..
 figlet DONE | lolcat
+exit
 }
 
 dependencies
 script
 
+     
