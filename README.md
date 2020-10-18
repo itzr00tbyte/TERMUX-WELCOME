@@ -19,10 +19,7 @@ sh install.sh
 
 exit
 ```
-### or use Single Command
-```
-apt update && apt install git -y && pkg install mpv && git clone  git clone https://github.com/r0Otbyte/TERMUX-WELCOME && cd TERMUX-WELCOME && chmod +x * && ./install.sh
-```
+
 ## [+]How to remove 
 ```
 cd TERMUX-WELCOME
