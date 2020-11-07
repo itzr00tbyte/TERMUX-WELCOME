@@ -1,5 +1,5 @@
 #!/bin/bash
-# Update Script for PowerLevel10K v2.1-Stable
+# Update Script for Termux_welcome v2.1-Stable
 # Script created by @certified_youtuber
 
 
