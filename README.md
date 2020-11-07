@@ -9,7 +9,7 @@ apt install git -y
 
 pkg install mpv -y
 
-git clone https://github.com/r0Otbyte/TERMUX-WELCOME
+git clone https://github.com/itzr00tbyte/TERMUX-WELCOME
 
 cd TERMUX-WELCOME
 
