@@ -5,21 +5,11 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/TERMUX-WELCOME/terminal.mp3
 clear
-echo -e "Created By @CERTIFIED_YOUTUBER" | lolcat
+echo -e "Created By github.com/itzr00tbyte" | lolcat
 echo "----------------------------" | lolcat
 echo "BY script kiddie Youtube channel " | lolcat
-echo "╦ ╦╔═╗╦  ╔═╗╔═╗╔╦╗╔═╗"  | lolcat
-echo "║║║║╣ ║  ║  ║ ║║║║║╣  " | lolcat
-echo "╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝ " | lolcat
-
-                                                               
-echo "
-_____  ____  ___   _   _  _     _        
- | |  | |_  | |_) | |\/| | | | \ \_/     
- |_|  |_|__ |_| \ |_|  | \_\_/ /_/ \     
-" | lolcat
-  
+figlet -c Welcome  
 date | lolcat
-echo "YOUTUBE CHANNEL  :www.youtube.com/c/scriptkiddietelugu" | lolcat
-echo "TELEGRAM GROUP   :t.me/scriptKiddiesvR          " | lolcat
-echo "crafter by       :@certified_youtuber" | lolcat
+echo -e "YOUTUBE CHANNEL  : \n www.youtube.com/c/scriptkiddietelugu" | lolcat
+echo "-----------------------------------" | lolcat
+echo "Follow Me On Instagram :itz_r00tbyte" | lolcat
