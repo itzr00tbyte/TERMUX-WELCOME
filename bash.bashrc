@@ -7,7 +7,7 @@ mpv /$HOME/TERMUX-WELCOME/terminal.mp3
 clear
 echo -e "Created By github.com/itzr00tbyte" | lolcat
 echo "----------------------------" | lolcat
-echo "BY script kiddie Youtube channel " | lolcat
+echo "BY EswarMani Kinemaster " | lolcat
 figlet -c Welcome  
 date | lolcat
 echo -e "YOUTUBE CHANNEL  : \n www.youtube.com/c/scriptkiddietelugu" | lolcat
